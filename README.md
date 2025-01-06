@@ -1,5 +1,5 @@
 # What?
-Zortrax m200, m300 series reverse engineering to port Klipepr.
+Zortrax m200, m300 series reverse engineering to port Klipper.
 
 # Why?
 Becuase Zortrax support is non existant and functionality is outdated and was somewhat limited even back wehn it was a new product.
