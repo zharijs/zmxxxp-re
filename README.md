@@ -4,6 +4,10 @@ Zortrax m200, m300 series reverse engineering to port Klipepr.
 # Why?
 Becuase Zortrax support is non existant and functionality is outdated and was somewhat limited even back wehn it was a new product.
 
+# Where?
+ - Here
+ - On [EEVblog forum](https://www.eevblog.com/forum/3d-printing/hack-zortrax-driver-board-port-klipper/)
+
 # Todo:
 ## Demarked / unlabled components
 Find demarked or unlabeled electtronics compoennt part numbers
