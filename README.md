@@ -11,10 +11,10 @@ Becuase Zortrax support is non existant and functionality is outdated and was so
 # Todo:
 ## Demarked / unlabled components
 Find demarked or unlabeled electtronics compoennt part numbers
-- [x] Motor Drivers
-- [x] MCU
-- [x] Display
-- [x] Android processor module
+- [x] Motor Drivers `LV8729V`
+- [x] MCU `STM32F103VE`
+- [x] Display / res / driver / touch `MTF0397SWI-06XBL / 480 x 800 / OTM8019A / FT6236`
+- [x] Android processor / module `Alwinner A33 / A33-Core3`
 
 ## Demarked / unlabled mechanical parts
 Find demarked or unlabeled mechjanical part numbers (for future serviceability)
