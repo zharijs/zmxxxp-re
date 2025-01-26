@@ -7,6 +7,7 @@ Becuase Zortrax support is non existant and functionality is outdated and was so
 # Where?
  - Here
  - On [EEVblog forum](https://www.eevblog.com/forum/3d-printing/hack-zortrax-driver-board-port-klipper/)
+ - On [Reddit](https://www.reddit.com/r/3Dprinting/comments/1ia79sl/zortrax_m200_m300_m200p_m300p_motion_board/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 
 # Todo:
 ## Demarked / unlabled components
