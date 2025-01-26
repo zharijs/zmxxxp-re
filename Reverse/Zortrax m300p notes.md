@@ -52,7 +52,6 @@ microtech-lcd.com MTF0397SWI-06XBL
 3.97 inch 480 x 800 Pixel Resolution
 MIPI Interface TFT LCD Module
 Driver: OTM8019A
-## Motor Drivers
 
 ## MCU
 ### Conclusion
