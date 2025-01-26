@@ -4,20 +4,20 @@
 # Pinouts
 ## Voltages
 ### V-IN 
-30mA @ 24V only MCU board
+ - 30mA @ 24V only MCU board. Idle.
 
 ### MCU power
-3V3
+ - 3.3V
 
 ### Reference
 #### Extruder Driver
-0.4V
+ - 0.4V
 
 #### X, Y drivers
-0.6V
+ - 0.6V
 
 #### Z driver
-1.0V
+ - 1.0V
 
 ## Connectors:
 
@@ -41,22 +41,22 @@
 # Components
 
 ## Touch
-FT6236
+ - FT6236
 
 ## Motor Drivers
  - Input: 44 pin package, potentiometer on pin 21, GND on pin 22
  - Conclusion: LV8729V
 
 ## Screen
-microtech-lcd.com MTF0397SWI-06XBL
-3.97 inch 480 x 800 Pixel Resolution
-MIPI Interface TFT LCD Module
-Driver: OTM8019A
+ - microtech-lcd.com MTF0397SWI-06XBL
+ - 3.97 inch 480 x 800 Pixel Resolution
+ - MIPI Interface TFT LCD Module
+ - Driver: OTM8019A
 
 ## MCU
 ### Conclusion
  - ID: 0x414 -> STM32F1xx (00/01/02/03/05/07)
- - Clock: 72MHz -? STM32F10(3/7)
+ - Clock: 72MHz -> STM32F10(3/7)
  - Ethernet: No. -> STM32F103
  - Flahs: 512kB -> ...VE
  - Conclusion: STM32F103VE
