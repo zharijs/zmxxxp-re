@@ -40,6 +40,9 @@
 
 # Components
 
+## NTC on heatbed
+ - EPCOS 100K B57560G104F
+
 ## Touch
  - FT6236
 
