@@ -1,3 +1,8 @@
+# Community announcment
+As many of you are swapping out Zortrax HW with BTT and alike, I guess you have OG boards you don't need. 
+
+DM me - I could make some use of those for the greater good
+
 # What?
 Zortrax m200, m300 series reverse engineering to port Klipper.
 
