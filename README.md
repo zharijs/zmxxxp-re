@@ -31,7 +31,7 @@ Find demarked or unlabeled mechjanical part numbers (for future serviceability)
 - [ ] Extruder bearing
 - [ ] Extruder sprocekt
 - [x] X/Y timing pulleys - Standard 20 tooth GT2
-- [x] X/Y timing belts - Standard 60cm GT2 belt (https://spool3d.ca/zortrax-m300-long-gt2-belts-2-pack/)
+- [x] X/Y timing belts - Standard 60cm GT2 belt (https://www.aliexpress.com/item/1005007816768123.html - "2GT-604mm")
 - [ ] Optical endstops - M200 has standard limit switches (https://www.aliexpress.com/item/1005008413626764.html)
 - [x] Z Axis Ball Screw - M200 v3+ and M300 have a 12mm ball screw with a 4mm lead (in klipper rotation distance is 4mm). M200 V2 and eariler had a standard TR8 lead screw (8mm with 8mm lead or in Klipper 8mm rotation distance)
 
