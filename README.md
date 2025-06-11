@@ -83,6 +83,6 @@ Evaluate options:
 - [ ] Replace ribbon with wire harness and drag chain
 - [ ] Bigger motors for 300 series
 - [ ] Use native Ethernet, if Android board is changed to somehting else
-- [ ] Add magnetic layer to heatplate to use with flexible paltes
+- [ ] Add magnetic layer to heatplate to use with flexible paltes `Ender 3 build plates are a perfect sized fit for the M200 and extremely cheap (https://www.aliexpress.com/item/1005007592437912.html + https://www.aliexpress.com/item/1005007128388830.html 235x235mm`
 - [ ] Add load cells to scan level precisely and without electrical contact (worst design chopice of all M series)
       
