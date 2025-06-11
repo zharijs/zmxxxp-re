@@ -25,8 +25,8 @@ Find demarked or unlabeled electtronics compoennt part numbers
 ## Demarked / unlabled mechanical parts
 Find demarked or unlabeled mechjanical part numbers (for future serviceability)
 - [ ] Motors
-- [x] Extruder top fan `Both extruder fans appear to be 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
-- [x] Extruder Bot Fans `Both extruder fans appear to be 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
+- [x] Extruder top fan `Both extruder fans are 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
+- [x] Extruder Bot Fans `Both extruder fans are 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
 - [ ] Linear bearings
 - [ ] Extruder bearing
 - [ ] Extruder sprocekt
