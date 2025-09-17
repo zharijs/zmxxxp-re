@@ -25,6 +25,8 @@ Find demarked or unlabeled electtronics compoennt part numbers
 ## Demarked / unlabled mechanical parts
 Find demarked or unlabeled mechjanical part numbers (for future serviceability)
 - [ ] Motors
+- [x] Linear guide screws - M5 x 12 countersunk. OG ones are pretty bad with HEX slot. Flat head allows better alignment. I used Torx: `TME: B5X14/BB30503 (https://www.tme.eu/en/details/b5x14_bn368/bolts/bossard/1147315/)`
+- [x] Linear guide nuts - M5. OG are hard to handle, can't get any tool in where they are. Changed to M5 square nuts for tiny bit better handling: `TME: B5/BN147 (https://www.tme.com/us/en-us/details/b5_bn147/nuts/bossard/1092634/)`
 - [x] Extruder top fan `Both extruder fans are 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
 - [x] Extruder Bot Fans `Both extruder fans are 12v 4010 fans (https://www.aliexpress.com/item/1005006317979634.html)`
 - [ ] Linear bearings
