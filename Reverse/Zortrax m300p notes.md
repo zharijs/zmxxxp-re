@@ -41,8 +41,11 @@
 # Components
 
 ## NTC on heatbed
- - EPCOS 100K B57560G104F
-
+ - 100kΩ Vishay 0603 SMD NTCS0603E3104FXT
+ 
+## Temps sensor on extruder
+- AD8495ARMZ thermocouple amplifier
+ 
 ## Touch
  - FT6236
 
